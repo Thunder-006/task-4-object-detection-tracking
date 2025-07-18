@@ -34,7 +34,7 @@ Google Colab
 OpenCV Documentationhttps://docs.opencv.org/
 Haa Cascades Overview – OpenCVhttps://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
 Google Colabhttps://colab.research.google.com/
-ImageAI for Object Detection (Optional)https://imageai.readthedocs.io/en/latest/
+ImageAI for Object Detection (Optional)https://colab.research.google.com/drive/1PFe04b6SKz8qlKYjrxa3PsHacvsjnk2m?usp=sharing/
 
 📅 Duration
 July 2025 – CodeAlpha AI Internship
